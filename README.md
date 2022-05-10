@@ -41,6 +41,9 @@ make chrome app with JavaScript
     points: 10,
     fat: true
   }
+  // access
+  player["name"]
+  player.name
   // update
   player.lastName = "potato"
   ```
